@@ -1,2 +1,2 @@
-# TenetCore
-TenetCore Agent
+# SuperSonic
+SuperSonic Agent
